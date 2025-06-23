@@ -75,11 +75,6 @@ If your app (including all data and dependencies) is too large for the free plan
 
 For more details, see the [shinyapps.io user guide](https://docs.posit.co/shinyapps.io/guide/applications/).
 
-## Data
-
-- Example datasets (if any) are included in the `data/` folder.
-- For large datasets, please download them separately from [provide download link or instructions].
-
 ---
 
 ## License
