@@ -1,5 +1,5 @@
 # multiomics-shiny-app
-Interactive R Shiny platform for biclustering and visualization of multi-omics data, supporting normalization and export.
+An interactive Shiny R app for visualization and analysis of multi-omics datasets, including features like heatmaps, PCA, clustering, and downloadable results.
 
 # Multi-Omics Data Explorer (R Shiny)
 
@@ -12,18 +12,6 @@ This Shiny app allows you to upload multi-omics data (CSV), normalize it, and vi
 3. Click "Run Analysis".
 4. Explore the PCA and Heatmap tabs.
 5. Download the normalized data if desired.
-## Multi-Omics Shiny App
-
-An interactive Shiny app for visualization and analysis of multi-omics datasets, including features like heatmaps, PCA, clustering, and downloadable results.
-
----
-
-## Features
-
-- Upload and explore multi-omics datasets
-- Interactive heatmaps using ComplexHeatmap
-- Principal Component Analysis (PCA) and clustering
-- Download processed results and visualizations
 
 ---
 
